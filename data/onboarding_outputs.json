@@ -1,0 +1,106 @@
+{
+    "Name": "John Smith Jr",
+    "Current Address": "564 Market Street, San Francisco, 94 104, CA, United States",
+    "Apartment Info": {
+        "Description": "5th floor, 2 bedroom",
+        "How to enter": [
+            "unlock the building entry door with the red key",
+            "take the elevator to 5th floor",
+            "unlock the blue door with the blue key. The blue door is directly across from the elevator"
+        ]
+    },
+    "Data of Birth": "1941-01-20",
+    "Place of Birth": "Prague, Czech Republic",
+    "Key Personal History Information": [
+        "Born in 1941 in Prague, Czech Republic.",
+        "Graduated with a degree in Literature from Charles University in 1963.",
+        "Moved to Berlin in 1965 and worked as a journalist for 5 years.",
+        "Relocated to New York in 1972 and started a career in publishing.",
+        "Married in 1975 and had two children.",
+        "Moved to San Francisco in 1990 and started his own publishing company.",
+        "Retired in 2011 and now spends his time traveling and writing."
+    ],
+    "cv_upload": null,
+    "Family Members Information": [
+        {
+            "name": "Jana Novakova",
+            "relationship": "Mother",
+            "detailed_information": "Jana was a school teacher in Prague. She was known for her kindness and dedication to her students. She loved gardening and spent most of her free time taking care of her plants.",
+            "alive_status": "Deceased"
+        },
+        {
+            "name": "Karel Novak",
+            "relationship": "Father",
+            "detailed_information": "Karel was a violinist and played in the Prague Symphony Orchestra. He passed on his love for music to John. Karel loved fishing and often took John on fishing trips.",
+            "alive_status": "Deceased"
+        },
+        {
+            "name": "Helen Stone",
+            "relationship": "Sister",
+            "detailed_information": "Helen is a renowned pianist and currently teaches at the San Francisco Conservatory of Music. She's married with two children and lives in Palo Alto.",
+            "alive_status": "Alive"
+        },
+        {
+            "name": "Emily Smith",
+            "relationship": "Wife",
+            "detailed_information": "Emily was a passionate artist, known for her breathtaking landscape paintings. She and John met at an art exhibition in New York and shared 45 wonderful years together. She loved hiking and often took the family on nature trips.",
+            "alive_status": "Deceased"
+        },
+        {
+            "name": "Sophia Smith",
+            "relationship": "Daughter",
+            "detailed_information": "Sophia is a digital marketing specialist working for a tech company in Silicon Valley. She's an avid reader and shares her father's love for literature. She's married and has a toddler.",
+            "alive_status": "Alive"
+        },
+        {
+            "name": "Daniel Smith",
+            "relationship": "Son",
+            "detailed_information": "Daniel followed his grandmother's footsteps and became a school teacher. He teaches history at a high school in San Francisco. He's a history buff and enjoys collecting vintage artifacts.",
+            "alive_status": "Alive"
+        }
+    ],
+    "Medication Information": [
+        {
+            "medication_name": "Aspirin",
+            "medicaction_time": "07:30:00",
+            "dosing_tablets": 1,
+            "additional_notes": "For Headache, located in the cupboard"
+        },
+        {
+            "medication_name": "Xados",
+            "medicaction_time": "07:30:00",
+            "dosing_tablets": 1,
+            "additional_notes": "For allergies, located in the cupboard"
+        }
+    ],
+    "Medical Conditions": [
+        "Migraines",
+        "Seasonal Allergies"
+    ],
+    "Key Areas of Assistance": [
+        "Groceries",
+        "Doctors",
+        "Relatives",
+        "Appointments",
+        "Navigation"
+    ],
+    "Memmory Restore Triggers": [
+        "Listening to violin music, reminiscent of his father's playing.",
+        "The smell of fresh flowers, reminding him of his mother's garden.",
+        "Reading literature, his field of study and career."
+    ],
+    "Emergency Contacts": [
+        {
+            "name": "Helen Stone",
+            "relationship": "Sister",
+            "phone_number": "415-555-1234",
+            "procedure": "In case of emergency, contact Helen immediately. If she's not reachable, call 911."
+        }
+    ],
+    "Emergency Procedures": [
+        "Call Helen Stone at 415-555-1234.",
+        "If Helen cannot be reached, dial 911."
+    ],
+    "Legal Documents Location": "Cupboard in the kitchen",
+    "Dietary Preferences": "Allergy to peanuts"
+}
